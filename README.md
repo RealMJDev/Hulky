@@ -1,5 +1,5 @@
 # Hulky
-Parcel based workflow
+Parcel.js based workflow
 
 ## Instructions
 
