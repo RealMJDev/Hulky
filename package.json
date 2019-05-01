@@ -4,7 +4,9 @@
   "description": "parcel based workflow",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "parcel index.html",
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/RealMJDev/Hulky/issues"
   },
-  "homepage": "https://github.com/RealMJDev/Hulky#readme"
+  "homepage": "https://github.com/RealMJDev/Hulky#readme",
+  "devDependencies": {
+    "cssnano": "^4.1.10"
+  }
 }
