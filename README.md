@@ -1,5 +1,6 @@
 # Hulky
 Parcel.js based workflow
+This is a basic workflow setup with ParcelJS
 
 ## Instructions
 
